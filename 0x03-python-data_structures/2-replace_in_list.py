@@ -2,6 +2,6 @@
 
 def replace_in_list(the_list, idx, element):
     if idx < 0 or idx >= len(the_list):
-        return my_list
+        return the_list
     the_list[idx] = element
-    return 
+    return the_list

@@ -1,5 +1,9 @@
 #!/usr/bin/python3
-"""Python script that fetches https://alx-intranet.hbtn.io/status"""
+"""
+    Python script that fetches https://alx-intranet.hbtn.io/status
+    Only installed pakage requests
+    prints response with tabulation before -
+"""
 import requests
 
 

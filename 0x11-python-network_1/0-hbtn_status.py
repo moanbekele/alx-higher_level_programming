@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 """
 - Python script that fetches https://alx-intranet.hbtn.io/status
-- imports urlib package
+- imports only urlib package
+- The body of the response must be displayed with (tabulation before -)
+- includes a with statement
 """
 
 
